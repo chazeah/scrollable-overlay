@@ -44,6 +44,7 @@ html, body {
 .background-content {
     height: 100%;
     overflow: auto;
+    -webkit-overflow-scrolling: touch;
     
     /*
      * If you want to use padding here, remember to add:
